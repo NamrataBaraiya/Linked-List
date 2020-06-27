@@ -1,4 +1,6 @@
-# Linklist
+# Linked list
+Linked list implimentation in c
+
 #include<stdlib.h>
 #include<stdio.h>
 #include<conio.h>
